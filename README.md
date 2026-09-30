@@ -2,6 +2,10 @@
 
 一个艺术化的城市街区漫游原型：用画笔风格的 SVG 地图探索历史街区，与街区名人对话。
 
+An artistic city-block roaming prototype: explore historic neighborhoods on painterly SVG maps and chat with the neighborhoods' famous figures.
+
+<!-- TODO: add screenshot -->
+
 ## 功能
 
 - 6 座城市的著名街区：巴黎蒙马特、纽约格林威治村、伦敦布鲁姆斯伯里、东京浅草、维也纳内城、香港中环
