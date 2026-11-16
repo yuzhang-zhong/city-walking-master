@@ -7,8 +7,6 @@
 Six painted neighborhoods. A small, scripted atlas of cultural encounters.
 
 [![Cursor Canvas](https://img.shields.io/badge/宿主-Cursor_Canvas-2563eb)](#在-cursor-canvas-中打开)
-[![Six neighborhoods](https://img.shields.io/badge/探索-6_个城市街区-b45309)](#六座城市六种笔触)
-[![Local dialogue](https://img.shields.io/badge/对话-本地脚本-0f766e)](#实现与边界)
 
 [探索方式](#从一次散步开始) · [城市一览](#六座城市六种笔触) · [运行](#在-cursor-canvas-中打开) · [操作速查](#操作速查) · [实现与边界](#实现与边界) · [English](#english)
 
@@ -16,7 +14,7 @@ Six painted neighborhoods. A small, scripted atlas of cultural encounters.
 
 ![仓库 ParisMap 的蒙马特地图静态导出，非 Cursor Canvas 界面截图](docs/montmartre-map.svg)
 
-<sub>上图直接导出自源码中的 ParisMap 与巴黎配色，保留原有路径和文字。它是地图画作预览，不是完整应用截图，也不是地理导航地图。</sub>
+上图直接导出自源码中的 ParisMap 与巴黎配色，保留原有路径和文字。它是地图画作预览，不是完整应用截图，也不是地理导航地图。
 
 ## 从一次散步开始
 
