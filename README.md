@@ -2,6 +2,8 @@
 
 # 城市大师漫游 · City Walking Master
 
+**简体中文** · [English (full README)](README.en.md)
+
 **把街区当作画布，把散步当作阅读。**
 
 Six painted neighborhoods. A small, scripted atlas of cultural encounters.
