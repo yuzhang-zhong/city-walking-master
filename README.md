@@ -1,6 +1,18 @@
-<h1 align="center">城市大师漫游 · City Walking Master</h1>
-<p align="center"><strong>把街区当作画布，把散步当作阅读。</strong><br>Six painted neighborhoods. A small, scripted atlas of cultural encounters.</p>
-<p align="center"><a href="#从一次散步开始">探索方式</a> · <a href="#在-cursor-canvas-中打开">运行</a> · <a href="#实现与边界">实现与边界</a> · <a href="#english">English</a></p>
+<div align="center">
+
+# 城市大师漫游 · City Walking Master
+
+**把街区当作画布，把散步当作阅读。**
+
+Six painted neighborhoods. A small, scripted atlas of cultural encounters.
+
+[![Cursor Canvas](https://img.shields.io/badge/宿主-Cursor_Canvas-2563eb)](#在-cursor-canvas-中打开)
+[![Six neighborhoods](https://img.shields.io/badge/探索-6_个城市街区-b45309)](#六座城市六种笔触)
+[![Local dialogue](https://img.shields.io/badge/对话-本地脚本-0f766e)](#实现与边界)
+
+[探索方式](#从一次散步开始) · [城市一览](#六座城市六种笔触) · [运行](#在-cursor-canvas-中打开) · [操作速查](#操作速查) · [实现与边界](#实现与边界) · [English](#english)
+
+</div>
 
 ![仓库 ParisMap 的蒙马特地图静态导出，非 Cursor Canvas 界面截图](docs/montmartre-map.svg)
 
